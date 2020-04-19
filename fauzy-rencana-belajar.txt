@@ -6,4 +6,7 @@ Rencana Belajar Fauzy
   * Code Igniter
 - Git & Github
 - JavaScript
+  ^ react
 - Java
+  ^ spring
+- c#
