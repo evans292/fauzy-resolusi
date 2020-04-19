@@ -4,5 +4,6 @@ Rencana Belajar Fauzy
 - PHP Framework
   * Laravel
   * Code Igniter
+- Git & Github
 - JavaScript
 - Java
