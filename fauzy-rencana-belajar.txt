@@ -1,0 +1,6 @@
+Rencana Belajar Fauzy
+
+- PHP OOP
+- PHP Framework
+- JavaScript
+- Java
