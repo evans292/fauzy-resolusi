@@ -7,6 +7,7 @@ Rencana Belajar Fauzy
 - Git & Github
 - JavaScript
   ^ react
+  ^ vue
 - Java
   ^ spring
 - c#
