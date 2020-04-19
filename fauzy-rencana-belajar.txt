@@ -1,6 +1,5 @@
 Rencana Belajar Fauzy
 
-- PHP OOP
 - PHP Framework
   * Laravel
   * Code Igniter
@@ -11,3 +10,4 @@ Rencana Belajar Fauzy
 - Java
   ^ spring
 - c#
+
